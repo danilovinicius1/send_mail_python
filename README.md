@@ -1,1 +1,1 @@
-# send_mail_python
+# Envio de e-mails pelo python
